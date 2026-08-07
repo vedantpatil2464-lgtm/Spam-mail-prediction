@@ -2,6 +2,8 @@
 
 # 📧 Spam Mail Prediction Using Machine Learning
 
+https://colab.research.google.com/drive/18nnX5TH7pIzvnl0iXrtTZh1PDHTBduko?usp=sharing
+
 ## 📌 Overview
 
 Electronic mail is a cornerstone of modern digital communication, but it is heavily plagued by spam—bulk, unsolicited messages that often contain phishing attempts or fraudulent advertisements. This project implements a **Natural Language Processing (NLP)** and **Machine Learning-based classifier** to automatically read email text and predict whether an incoming message is **"Spam"** (malicious) or **"Ham"** (legitimate).
